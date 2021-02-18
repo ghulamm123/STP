@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "mean stack video app",
   "main": "index.js",
-"scripts": {
+  "scripts": {
     "start": "node index.js"
   },
   "repository": {
